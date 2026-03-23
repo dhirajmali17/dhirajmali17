@@ -13,15 +13,11 @@
 
 ---
 
-## 🚀 DevOps Tools & Technologies
+## 🚀 Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github,bash" />
+</p>
 
 ---
 
