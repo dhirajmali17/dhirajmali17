@@ -48,4 +48,6 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Mali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
+<a href="https://www.linkedin.com/in/dhiraj-mali/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn"/>
+</a>
