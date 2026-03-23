@@ -21,7 +21,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/44494245?s=200&v=4" width="50"/>
+<img src="https://avatars.githubusercontent.com/u/44494245?s=200&v=4" width="50" title="Podman"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
