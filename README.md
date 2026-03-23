@@ -48,4 +48,4 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Mali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
