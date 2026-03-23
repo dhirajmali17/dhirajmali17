@@ -23,7 +23,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/containers/podman/main/logo/podman-logo-source.svg" width="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
