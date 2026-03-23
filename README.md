@@ -25,19 +25,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-- 🔐 Secure Apache Web Server with Basic Authentication  
-👉 https://github.com/dhirajmali17/secure-apache-server-rhel9  
-
----
-
-## 📊 GitHub Stats
-
-![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajmali17&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
