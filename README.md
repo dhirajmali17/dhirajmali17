@@ -6,9 +6,10 @@
 
 ## 🧑‍💻 About Me
 - 🎓B.Tech Graduate in Computer Science  
-- 🐧 Strong in Linux (RHEL 9)  
-- ☁️ Learning AWS & Cloud  
+- 🐧 Strong in Linux
 - ⚙️ Exploring DevOps Tools & Automation    
+- ☁️ Learning AWS & Cloud  
+
 
 ---
 
