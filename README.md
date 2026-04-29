@@ -52,3 +52,4 @@
 <a href="https://www.linkedin.com/in/dhiraj-mali/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn"/>
 </a>
+![Profile views](https://komarev.com/ghpvc/?username=https://github.com/dhirajmali17&color=blue)
